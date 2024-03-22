@@ -1,3 +1,3 @@
-let n= 10
+let n=-10
 
-console.log(++n)
+console.log(n)
