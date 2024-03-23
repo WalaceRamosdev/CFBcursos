@@ -1,8 +1,7 @@
 /*Operadores ternarios*/
 
-let num1 = 10
-let num2 = 5
-res=(num1 > num2 ? "Verdadeiro" : "Falso")
+let st="A"
+res=(st == "A" ? "Ativo" : "Inativo")
 
 console.log(res)
 
